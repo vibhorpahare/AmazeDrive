@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AmazeDrive" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@color/dashboard_bg</item>
+        <item name="colorPrimary">@color/dashboard_text_primary</item>
+        <item name="android:statusBarColor">@color/dashboard_bg</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+</resources>
